@@ -1,0 +1,1 @@
+# rust-directory-scan-prompt-generation
